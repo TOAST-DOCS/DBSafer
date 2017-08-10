@@ -34,6 +34,7 @@ DBSAFER 서비스를 사용하기 위한 절차는 아래와 같습니다.
 
 ## 관련 링크
   기술 지원 및 비용 관련 자세한 문의 사항은 아래 정보로 연락하여 주시기 바랍니다.
+
 - 기술 지원 문의 [tech@pnpsecure.com](mailto:tech@pnpsecure.com) / 대표전화 1670-9295 (평일 09:00-18:00)
 - 비용 문의 [Toast Cloud 1:1문의](http://cloud.toast.com/support/inquiry)
 - 피앤피시큐어 홈페이지 [http://www.pnpsecure.com/](http://www.pnpsecure.com/)
