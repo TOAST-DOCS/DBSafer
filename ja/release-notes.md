@@ -1,4 +1,4 @@
-## Security > DBSafer > 릴리스 노트
+## Security > DBSafer > Release Notes
 
 ### 2018.01.25
 #### 신규 상품 오픈

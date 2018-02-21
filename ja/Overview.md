@@ -1,4 +1,4 @@
-## Security > DBSafer > 개요
+## Security > DBSafer > Overview
 
 DBSAFER는 개인정보 DB에 대해 접근통제, 권한통제, SQL 감사 및 로깅 등을 수행하며, 사용자별 시스템 접근통제 및 작업 이력감사를 연동하여, 개인정보 DB와 서버에 대한 정보유출을 사전에 차단합니다.
 

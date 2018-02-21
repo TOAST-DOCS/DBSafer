@@ -1,4 +1,4 @@
-## Security > DBSafer > 콘솔 사용 가이드
+## Security > DBSafer > Console Guide
 
 DBSAFER 서비스를 사용하기 위한 절차는 아래와 같습니다.
 
