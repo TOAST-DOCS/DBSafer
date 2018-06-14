@@ -34,5 +34,5 @@ DBSAFER 서비스를 사용하기 위한 절차는 아래와 같습니다.
 ## 관련 링크
   기술 지원 및 비용 관련 자세한 문의 사항은 아래 정보로 연락하여 주시기 바랍니다.
 
-- 문의 [Toast Cloud 1:1문의](https://toast.com/support/inquiry)
 - 피앤피시큐어 홈페이지 [http://www.pnpsecure.com/](http://www.pnpsecure.com/)
+- 피앤피시큐어 연락처 : 1670 - 9295
