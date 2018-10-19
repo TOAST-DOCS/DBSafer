@@ -5,7 +5,7 @@ DBSAFER는 개인정보 DB에 대해 접근통제, 권한통제, SQL 감사 및 
 
 ## 구성도
 
-![](http://static.toastoven.net/prod_dbsafer/dbsafer_infra.png)
+![](https://static.toastoven.net/prod_dbsafer/dbsafer_01_201812_en.png)
 
 ## 필요성
 

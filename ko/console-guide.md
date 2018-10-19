@@ -6,7 +6,10 @@ DBSAFER 서비스를 사용하기 위한 절차는 아래와 같습니다.
 
 ### 서비스 신청
 
-- Toast Cloud Console에 접속하여 **[Security]  [DBSAFER]**  **[이용신청]**을 선택하여 DBSAFER 서비스를 신청하실 수 있습니다.
+![dbsafer_02_201812.png](https://static.toastoven.net/prod_dbsafer/dbsafer_02_201812.png)
+![dbsafer_03_201812.png](https://static.toastoven.net/prod_dbsafer/dbsafer_03_201812.png)
+
+- Toast Cloud Console에 접속하여 Security >DBSAFER > [이용신청]을 선택하여 DBSAFER 서비스를 신청하실 수 있습니다.
 
 - 해당 상품은 즉시 사용 불가하며 사전 상담을 위하여 약 2~3일 정도 시간 소요될 수 있습니다.
 
@@ -36,3 +39,4 @@ DBSAFER 서비스를 사용하기 위한 절차는 아래와 같습니다.
 
 - 피앤피시큐어 홈페이지 [http://www.pnpsecure.com/](http://www.pnpsecure.com/)
 - 피앤피시큐어 연락처 : 1670 - 9295
+
