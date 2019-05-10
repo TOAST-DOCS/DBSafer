@@ -5,7 +5,7 @@ DBSaferは、個人情報DBアクセス統制、権限統制、SQLチェック�
 
 ## 構成図
 
-![](https://static.toastoven.net/prod_dbsafer/DBSafer_overview01.png)
+![](https://static.toastoven.net/prod_dbsafer/DBSafer_overview01_en.png)
 
 ## 必要性
 
